@@ -1,6 +1,0 @@
-pandas
-numpy
-yfinance
-pandas_ta
-joblib
-scikit-learn
